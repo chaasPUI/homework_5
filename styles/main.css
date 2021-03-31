@@ -65,6 +65,10 @@ h5, h6{
     font-weight: lighter;
 }
 
+a {
+    text-decoration: none;
+    color: initial;
+}
 
 
 .button{
